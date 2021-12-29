@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Helloworld"
+echo "First jenkins job"
